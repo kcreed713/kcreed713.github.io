@@ -1,0 +1,31 @@
+html {
+        font-family: 'Libre Franklin', black;
+        font-size: 10px;        
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+html {
+  background-color: darkred;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
